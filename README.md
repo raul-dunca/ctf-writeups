@@ -1,4 +1,5 @@
 # CTF Writeups
+- ### [ACSC 2025 Qualification](https://github.com/raul-dunca/acsc_2025_quals)
 - ### [ROCSC 2025 Qualification](https://github.com/raul-dunca/rocsc_2025_quals)
 - ### [CyberStudents’ Advent Of CTF 2024](https://github.com/raul-dunca/CyberStudents-advent-of-ctf2024)
 - ### [DefCamp CTF 2024 Quals](https://github.com/raul-dunca/DefCamp-CTF-2024-Quals)
